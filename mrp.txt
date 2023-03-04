@@ -1,0 +1,22 @@
+ O volume na unidade D ‚ Grogu
+ O N£mero de S‚rie do Volume ‚ 7C65-DC4C
+
+ Pasta de D:\developer\android\NetFlix
+
+04/03/2023  09:57    <DIR>          .
+04/03/2023  09:57    <DIR>          ..
+03/03/2023  01:58               225 .gitignore
+03/03/2023  02:23    <DIR>          .gradle
+04/03/2023  04:50    <DIR>          .idea
+03/03/2023  02:19    <DIR>          app
+03/03/2023  01:58               229 build.gradle
+03/03/2023  01:58    <DIR>          gradle
+03/03/2023  01:58             1.267 gradle.properties
+03/03/2023  01:58             5.766 gradlew
+03/03/2023  01:58             2.763 gradlew.bat
+03/03/2023  01:58               451 local.properties
+04/03/2023  09:57                 0 mrp.txt
+24/02/2023  11:19                23 README.md
+03/03/2023  01:58               324 settings.gradle
+               9 arquivo(s)         11.048 bytes
+               6 pasta(s)   94.738.092.032 bytes dispon¡veis
